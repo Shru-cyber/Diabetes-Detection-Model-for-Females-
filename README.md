@@ -72,8 +72,8 @@ The project uses the **PIMA Indian Diabetes Dataset** stored as `diabetes.csv`.
 
 ## 📈 Model Performance
 
-- **Training Accuracy:78.87** ~  
-- **Test Accuracy:77.78** ~  
+- **Training Accuracy:** ~ 78.87
+- **Test Accuracy:** ~ 77.78 
 
 *(Update these values after running your model)*
 
