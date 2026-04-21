@@ -83,5 +83,5 @@ The project uses the **PIMA Indian Diabetes Dataset** stored as `diabetes.csv`.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   https://github.com/Shru-cyber/Diabetes-Detection-Model-for-Females-
 
